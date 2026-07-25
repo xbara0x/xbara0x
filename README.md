@@ -1,4 +1,3 @@
-<h1 align="center">Barão</h1>
 <h3 align="center">OffSec, CTI, DevSecOps — e curiosidade técnica por praticamente tudo que envolve hacking</h3>
 
 <p align="center">
