@@ -1,12 +1,22 @@
-<h3 align="center">OffSec, CTI, DevSecOps — e curiosidade técnica por praticamente tudo que envolve hacking</h3>
+<h3 align="center">OffSec, CTI, DevSecOps — and technical curiosity about pretty much everything hacking-related</h3>
 
 <p align="center">
   <a href="https://tryhackme.com/p/XBaraoVermelhoX" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/XBaraoVermelhoX.png" alt="TryHackMe"></a>
 </p>
 
 <p align="center">
+This repo hosts templates, lab automation, day-to-day scripts, and any technical material worth sharing.
+</p>
+
+<details>
+<summary align="center">🇧🇷 Português</summary>
+<p align="center">
+OffSec, CTI, DevSecOps — e curiosidade técnica por praticamente tudo que envolve hacking.
+</p>
+<p align="center">
 Aqui sobem templates, automações de laboratório, scripts do dia a dia e qualquer material técnico que eu ache que vale compartilhar.
 </p>
+</details>
 
 <div align="center">
 <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xbara0x&layout=compact&langs_count=7&theme=dracula"/>
