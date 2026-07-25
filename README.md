@@ -1,5 +1,5 @@
-<h1 align="center">xbara0x</h1>
-<h3 align="center">Ofensiva, CTI, DevSecOps — e curiosidade técnica por praticamente tudo que envolve hacking</h3>
+<h1 align="center">Barão</h1>
+<h3 align="center">OffSec, CTI, DevSecOps — e curiosidade técnica por praticamente tudo que envolve hacking</h3>
 
 <p align="center">
   <a href="https://tryhackme.com/p/XBaraoVermelhoX" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/XBaraoVermelhoX.png" alt="TryHackMe"></a>
