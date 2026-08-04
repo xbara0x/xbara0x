@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-This repo hosts templates, lab automation, day-to-day scripts, and any technical material worth sharing.
+Templates, lab automation, day-to-day scripts, and any technical material worth sharing land here as I clean them up.
 </p>
 
 <details>
