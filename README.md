@@ -9,7 +9,7 @@
 
 <p align="center">OffSec · CTI · DevSecOps</p>
 
-<p align="center"><code>python · bash · kotlin</code> &nbsp;|&nbsp; <code>caido · frida · jadx</code> &nbsp;|&nbsp; <code>linux · docker · kvm</code></p>
+<p align="center"><code>python · bash · kotlin</code> &nbsp;|&nbsp; <code>linux · docker · kvm</code></p>
 
 <details>
 <summary align="center">🇧🇷</summary>
